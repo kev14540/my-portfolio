@@ -1,1 +1,1 @@
-# my-portfolio
+# This repo contains Kevin Liaw's portfolio and STEP projects.
